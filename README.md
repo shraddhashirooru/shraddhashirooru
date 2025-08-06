@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently learning to become a backend engineer.
+🌱 I'm currently learning Backend Development + System Design
 
 
 ## 🌐 Socials:
