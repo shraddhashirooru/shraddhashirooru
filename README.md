@@ -11,7 +11,7 @@
 💬 Ask me about **Python, SQL, FastAPI**
 
 
-💻 Check out more projects on my [GitHub](https://github.com/shraddhashirooru/tab=repositories)
+💻 Check out more projects on my [GitHub](https://github.com/shraddhashirooru?tab=repositories)
 
 ---
 
