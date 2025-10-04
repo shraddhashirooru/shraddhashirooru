@@ -6,7 +6,7 @@
 
 ### 💫 About Me:
 
-🌱 I'm currently learning **docker & Azure**
+🌱 I'm currently learning **Backend Developement+System Design**
 
 💬 Ask me about **Python, SQL, FastAPI**
 
